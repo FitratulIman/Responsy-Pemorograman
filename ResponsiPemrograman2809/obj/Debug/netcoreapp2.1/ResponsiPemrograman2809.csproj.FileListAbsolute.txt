@@ -1,0 +1,11 @@
+D:\DOCUMENT\Pemrograman\ResponsiPemrograman2809\ResponsiPemrograman2809\obj\Debug\netcoreapp2.1\ResponsiPemrograman2809.csprojAssemblyReference.cache
+D:\DOCUMENT\Pemrograman\ResponsiPemrograman2809\ResponsiPemrograman2809\obj\Debug\netcoreapp2.1\ResponsiPemrograman2809.csproj.CoreCompileInputs.cache
+D:\DOCUMENT\Pemrograman\ResponsiPemrograman2809\ResponsiPemrograman2809\obj\Debug\netcoreapp2.1\ResponsiPemrograman2809.AssemblyInfoInputs.cache
+D:\DOCUMENT\Pemrograman\ResponsiPemrograman2809\ResponsiPemrograman2809\obj\Debug\netcoreapp2.1\ResponsiPemrograman2809.AssemblyInfo.cs
+D:\DOCUMENT\Pemrograman\ResponsiPemrograman2809\ResponsiPemrograman2809\bin\Debug\netcoreapp2.1\ResponsiPemrograman2809.deps.json
+D:\DOCUMENT\Pemrograman\ResponsiPemrograman2809\ResponsiPemrograman2809\bin\Debug\netcoreapp2.1\ResponsiPemrograman2809.runtimeconfig.json
+D:\DOCUMENT\Pemrograman\ResponsiPemrograman2809\ResponsiPemrograman2809\bin\Debug\netcoreapp2.1\ResponsiPemrograman2809.runtimeconfig.dev.json
+D:\DOCUMENT\Pemrograman\ResponsiPemrograman2809\ResponsiPemrograman2809\bin\Debug\netcoreapp2.1\ResponsiPemrograman2809.dll
+D:\DOCUMENT\Pemrograman\ResponsiPemrograman2809\ResponsiPemrograman2809\bin\Debug\netcoreapp2.1\ResponsiPemrograman2809.pdb
+D:\DOCUMENT\Pemrograman\ResponsiPemrograman2809\ResponsiPemrograman2809\obj\Debug\netcoreapp2.1\ResponsiPemrograman2809.dll
+D:\DOCUMENT\Pemrograman\ResponsiPemrograman2809\ResponsiPemrograman2809\obj\Debug\netcoreapp2.1\ResponsiPemrograman2809.pdb
